@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on github community
-- 📫 How to reach me, Instagram: @asfahanarif
+- 📫 How to reach me, Check out bio
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Writer/Architect
+- ⚡ Fun fact: Asfahān nesf-e-jahān ast (Isfahan is half (of) the world).
 
 <!---
 asfahanarif/asfahanarif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
